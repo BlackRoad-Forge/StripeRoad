@@ -1,3 +1,13 @@
+# StripeRoad — BlackRoad Stripe integration for AI-powered products and payments.
+
+> Part of the [BlackRoad OS](https://blackroad.io) sovereign technology ecosystem.
+> Licensed under [BlackRoad OS, Inc. Proprietary License](./LICENSE).
+
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS-black?style=flat-square)](https://blackroad.io)
+[![License](https://img.shields.io/badge/License-Proprietary-black?style=flat-square)](./LICENSE)
+
+---
+
 ![Hero GIF](https://stripe.dev/images/badges/ai-banner.gif)
 
 # Stripe AI
